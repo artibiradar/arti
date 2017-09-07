@@ -1,0 +1,22 @@
+
+===========================================================
+
+Find the number of movies released between 1945 and 1959
+
+===========================================================
+
+Find the number of movies having rating more than 3.9
+
+===========================================================
+
+Find the number of movies with duration more than 1.5 hours
+
+===========================================================
+
+Find the list of years and number of movies released each year
+
+===========================================================
+
+Count the total number of movies in the list
+
+===========================================================
